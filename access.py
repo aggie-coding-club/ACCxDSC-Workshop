@@ -54,7 +54,7 @@ print(gettingStarted())
 # def postRequest():
 #   response = requests.post (
 #     'route (url) of the api you are accessing',
-#     data = {'somekey': 'somevalue'} # data is optional and is where you would supply any answers you want to submit for this activity
+#     json = {'somekey': 'somevalue'} # data is optional and is where you would supply any answers you want to submit for this activity
 #   )
 #   json_data = response.text
 #   return json_data
